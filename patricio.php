@@ -25,3 +25,5 @@ echo "La hora es: " .date("G:i.s");
 </center>
 </body>
 </html>
+
+wena pato
