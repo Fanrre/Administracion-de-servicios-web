@@ -10,7 +10,7 @@
 
 <?php
 class MyClass {
-      public static $PDJ = "<h3>Soy Patricio De La Jara";
+      public static $PDJ = "<h3>Soy Patricio De La Jara, Joaquin Fernandez";
       public static $PA  = "Ramo: Administracion De Servicio Web <br>";
 
 
